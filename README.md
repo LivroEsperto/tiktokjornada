@@ -1,8 +1,7 @@
 
+# Clone TikTokJornada
 
-# Jornada Fullstack EBAC
-
-**Jornada FULL STACK: Criando um clone do TikTok!**
+Criado na **Jornada FULL STACK: Criando um clone do TikTok!**
 
 Imersão EBAC Gratuita
 
@@ -20,10 +19,12 @@ Abra https://tiktokjornada.web.app/
 
 ## Como rodar em sua máquina
 
-- Baixar o projeto (pode ser o zip - descompactar)
 - Instalar Node.JS 18
+- Baixar o projeto (pode ser o zip em https://codeload.github.com/LivroEsperto/tiktokjornada/zip/refs/heads/main)
+- Entrar no diretório do projeto
 - Rodar `npm init` (demora. Criará dependências - diretório `node_modules` com ~743MB)
-- Rodar `npm start`
+- Rodar `npm start` (de preferência sem erros :P )
+- Liberar porta TCP 3000 no firewall pessoal 
 - Abrir o browser em `http://localhost:3000`
 
 
@@ -31,6 +32,12 @@ Abra https://tiktokjornada.web.app/
 
 Bem, as aulas abaixo ficarão indisponíveis depois do evento,
 mas fala comigo que te ajudo!
+
+
+## Aonde mora o código?
+
+Este README.md? Aqui: https://github.com/LivroEsperto/tiktokjornada/blob/main/README.md
+O repositório? Aí mesmo!
 
 
 ## A fazer
