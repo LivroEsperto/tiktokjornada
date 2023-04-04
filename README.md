@@ -9,6 +9,12 @@ De 28 de março a 04 de abril de 2023
 https://ebaconline.com.br/webinars/jornada-programacao-marco-28-04?_cio_id=b9fd06228d41eee13e
 
 
+
+## Projeto em execução
+
+https://tiktokjornada.web.app/
+
+
 ## Aulas
 
 ### Aula 1 (28-mar-2023)
