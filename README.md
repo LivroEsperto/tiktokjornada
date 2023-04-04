@@ -24,7 +24,7 @@ Abra https://tiktokjornada.web.app/
 - Entrar no diretório do projeto
 - Rodar `npm init` (demora. Criará dependências - diretório `node_modules` com ~743MB)
 - Rodar `npm start` (de preferência sem erros :P )
-- Liberar porta TCP 3000 no firewall pessoal 
+- Liberar porta TCP 3000 no firewall pessoal
 - Abrir o browser em `http://localhost:3000`
 
 
@@ -111,7 +111,14 @@ Está na hora de integrar o seu projeto ao banco de dados.
 Adicionado BD Firebase.
 
 
-`$ npm install firebase`
+```sh
+$ npm install firebase
+$ sudo npm install -g firebase-tools
+$ firebase init
+$ firebase deploy
+$ firebase build
+```
+
 
 *Coloquei sombreamento nos textos para ficar mais legível em vídeos claros.*
 
@@ -129,6 +136,9 @@ Conhecendo mais sobre responsividade e como aplicar design para mobile.
 Finalizando o projeto
 Está na hora de finalizar seu projeto e compartilhar com seus colegas no Github.
 
+- Compartilhado em https://github.com/LivroEsperto/tiktokjornada
+- Pausas paralisam as animações
+- Texto da música vai e volta
 
 ### Aula 8 (04-abr-2023)
 

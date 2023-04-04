@@ -35,6 +35,7 @@ function Video({likes, messages, shares, name, description, music, url}) {
 				name={name}
 				description={description}
 				music={music}
+				play={play}
 			/>
 		</div>
 	)

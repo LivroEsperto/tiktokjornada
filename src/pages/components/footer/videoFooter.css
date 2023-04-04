@@ -18,13 +18,14 @@
 	display: flex;
 }
 
-.videoFooterMusic__text {
+.videoFooterMusic__textBox {
 	width: 80%;
 	overflow-x: hidden;
 }
 
-.videoFooterMusic__text p {
-	animation: moveTheText 5s infinite linear;
+.videoFooterMusic__text {
+	animation: moveTheText 3s infinite linear;
+	animation-play-state: paused;
 }
 
 .videoFooter__record {
@@ -34,6 +35,11 @@
 	right: 20px;
 	height: 50px;
 	filter: invert(1);
+	animation-play-state: paused;
+}
+
+.animated {
+	animation-play-state: running;
 }
 
 @keyframes spinTheRecord {
@@ -47,10 +53,13 @@
 
 @keyframes moveTheText {
 	0% {
+		transform: translateX(0%);
+	}
+	50% {
 		transform: translateX(100%);
 	}
 	100% {
-		transform: translateX(-100%);
+		transform: translateX(0%);
 	}
 }
 

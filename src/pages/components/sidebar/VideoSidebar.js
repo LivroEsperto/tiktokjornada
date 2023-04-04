@@ -12,9 +12,11 @@ function VideoSidebar({likes, messages, shares}) {
 	function handleLike() {
 		setLiked(!liked)
 	}
+
 	function handleChat() {
 
 	}
+
 	function handleShare() {
 
 	}
