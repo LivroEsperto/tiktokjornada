@@ -3,16 +3,42 @@
 # Jornada Fullstack EBAC
 
 **Jornada FULL STACK: Criando um clone do TikTok!**
+
 Imersão EBAC Gratuita
+
 De 28 de março a 04 de abril de 2023
 
 https://ebaconline.com.br/webinars/jornada-programacao-marco-28-04?_cio_id=b9fd06228d41eee13e
 
 
-
 ## Projeto em execução
 
-https://tiktokjornada.web.app/
+Que tal um gostinho de "quero rodando aqui"?
+
+Abra https://tiktokjornada.web.app/
+
+
+## Como rodar em sua máquina
+
+- Baixar o projeto (pode ser o zip - descompactar)
+- Instalar Node.JS 18
+- Rodar `npm init` (demora. Criará dependências - diretório `node_modules` com ~743MB)
+- Rodar `npm start`
+- Abrir o browser em `http://localhost:3000`
+
+
+## E agora?
+
+Bem, as aulas abaixo ficarão indisponíveis depois do evento,
+mas fala comigo que te ajudo!
+
+
+## A fazer
+
+- Resolver problemas de segurança
+- Implementar funcionalidades quebradas
+- Adicionar novas funcionalidades
+- Fazer sucesso
 
 
 ## Aulas
